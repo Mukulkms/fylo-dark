@@ -55,7 +55,7 @@ nav{
     text-decoration: none;
     color:hsl(0, 0%, 100%);
     font-family: 'Raleway';
-    font-size: 0.9em;
+    
     font-weight: 400;
 }
 .nav-links:hover{
@@ -208,6 +208,7 @@ h3{
     color: var(--White);
     border-color: var(--White);
 }
+
 .feedback{
     display: flex;
     margin: 10rem 0 0 0;

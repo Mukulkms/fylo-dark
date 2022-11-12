@@ -27,7 +27,25 @@
 
 @media(max-width:920px){
     
+    h1{
+      font-size: 4vw;
+      line-height: 1.5;
+      width: 60%;
+    }
+    p{
+      line-height: 1.5;
+      width: 60%;
+    }
+    #btn{
+      width: 50%;
+    }
+    .logo{
+      width: 70%;
+    }
     
+    .intro-pic{
+      width: 60%;
+    }
     .main-section{
         gap: 0;
     }
